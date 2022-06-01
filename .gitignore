@@ -1,0 +1,8 @@
+*
+!*/
+
+!*.md
+
+!.github/**
+
+!profile-summary-card-output/**
