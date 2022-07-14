@@ -31,10 +31,10 @@ href ="https://www.sqlite.org/"><img
 src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
 </p>
 
-<!--System-->
+<!--Systems-->
 
 <p align="center">
-<img src="https://shields.io/badge/-system-black?style=for-the-badge" alt="System"><a 
+<img src="https://shields.io/badge/-systems-black?style=for-the-badge" alt="Systems"><a 
 href="https://www.apple.com/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"/><img 
 src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"></a><a 
 href="https://ubuntu.com/"><img 
