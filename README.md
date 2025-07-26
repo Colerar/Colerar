@@ -1,16 +1,22 @@
-## Hi there 👋
+HBJ here 👋. Call me HBJ or by my real given name if you know it.
 
-<!--
-**Colerar/Colerar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📔 I have a personal blog: [kouen.red](https://kouen.red)
+  - It literally means "a bright red, burning flame."
+  - Currently, all the content is in Chinese.
+  - Read the [About](https://kouen.red/about/) page first.
+- I create my own reality.
+  - The real world is fun. I want to see what happens and what it will be like before I die.
+  - Scaling up my knowledge and everything.
+- At [@yanhuangdata](https://github.com/yanhuangdata), working on databases, building systems.
+- 🎆 Ad Astra Passion
+  - Existentialism
+    - Rolling a huge stone like Sisyphus.
+    - Facing uncertainty.
+  - Engineering
+    - Facing real users.
+    - Correctness.
+    - Performance.
+- 👉 Feel free to reach me:
+  - [Telegram](https://t.me/mdkufskhnmkw6bzn)
+  - [E-Mail](mailto:233hbj+blog@gmail.com)
+  - Physically reachable in Shanghai.
