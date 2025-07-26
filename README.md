@@ -1,13 +1,21 @@
 HBJ here 👋. Call me HBJ or by my real given name if you know it.
-
 - 📔 I have a personal blog: [kouen.red](https://kouen.red)
   - It literally means "a bright red, burning flame."
-  - Currently, all of the content is in Chinese.
+  - Currently, all the content is in Chinese.
   - Read the [About](https://kouen.red/about/) page first.
-- I am currently working on:
-  - Scaling up my knowledge and everything. Earth Online is fun, I want to see what happens and what it will be like before I die.
-  - At [@yanhuangdata](https://github.com/yanhuangdata), working on databases.
-- Feel free to reach me:
+- 👨‍💻 I am currently working on:
+  - Scaling up my knowledge and everything.
+    - Earth Online is fun. I want to see what happens and what it will be like before I die.
+  - At [@yanhuangdata](https://github.com/yanhuangdata), working on databases, building systems.
+- 🎆 Ad Astra Passion
+  - Existentialism
+    - Rolling a huge stone like Sisyphus.
+    - Facing uncertainty.
+  - Engineering
+    - Facing real users.
+    - Correctness. That's why I like Rust.
+    - Performance.
+- 👉 Feel free to reach me:
   - [Telegram](https://t.me/mdkufskhnmkw6bzn)
   - [E-Mail](mailto:233hbj+blog@gmail.com)
   - Physically reachable in Shanghai.
